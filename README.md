@@ -12,7 +12,7 @@ Nhưng, để thành thạo JavaFX cũng là một quá trình gian nan. Mình �
 **2. Danh sách các phần**
 <br>
 (Còn update)
-- 1_Introduce&Select
+- 1_Introduce&Install
 - 2_BuilAJavaFXApplication
 
 **3. Công cụ sử dụng**
