@@ -14,6 +14,7 @@ Nhưng, để thành thạo JavaFX cũng là một quá trình gian nan. Mình �
 (Còn update)
 - 1_Introduce&Install
 - 2_BuilAJavaFXApplication
+- 3_DesignUIWithSceneBuilder
 
 **3. Công cụ sử dụng**
 <br>
