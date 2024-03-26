@@ -12,6 +12,8 @@ Theo như trích dẫn trong toturial trên, có thể hiểu đơn giản JavaF
 
 JavaFX có một bộ components giúp hỗ trợ tối đa cho việc kéo thả những chức năng quan trọng như Label, ImageView,... Nó có nhiều chức năng hơn Swing, giúp tối hưu hóa, văn minh hóa hơn quá trình thiết kế giao diện, tăng trải nghiệm người dùng hơn với ứng dụng Java của bạn.
 
+Có một tính năng thú vị của JavaFX chính là có thể import được file .css vào dự án của mình. Có thể thiết kế tối ưu theo mô hình gán class như lập trình Web, giúp quá trình code thuận tiện hơn rất nhiều. Cấu trúc chương trình JavaFX được xây dựng theo mô hình Controller View, khá mới mẻ cho những bạn lần đầu làm quen với Java, hay chỉ code Java Swing trước đó, minh bạch hơn, văn minh hơn, rõ ràng hơn giúp cho lập trình tương tác view - controller dễ dàng hơn rất nhiều lần.  
+
 Nếu bạn cần thành thạo và muốn sử dụng ngôn ngữ Java để xây dựng một ứng dụng, thì JavaFX chính là một công cụ tối ưu đáng để nghiên cứu.
 
 ## b) Những cài đặt cần thiết để bắt đầu một chương trình JavaFX
