@@ -8,7 +8,7 @@ Như mình đã viết ở phần đầu, ít có một tài liệu nào chính 
 >
 > (javatpoint.com)
 
-Theo như trích dẫn trong toturial trên, có thể hiểu đơn giản JavaFX chính là một thư viện giúp xây dựng giao diện cho một ứng dụng Java. Nó được ra đời để thay thế cho một công cụ đã cũ như Java Swing. 
+Theo như trích dẫn trong tutorial trên, có thể hiểu đơn giản JavaFX chính là một thư viện giúp xây dựng giao diện cho một ứng dụng Java. Nó được ra đời để thay thế cho một công cụ đã cũ như Java Swing. 
 
 JavaFX có một bộ components giúp hỗ trợ tối đa cho việc kéo thả những chức năng quan trọng như Label, ImageView,... Nó có nhiều chức năng hơn Swing, giúp tối hưu hóa, văn minh hóa hơn quá trình thiết kế giao diện, tăng trải nghiệm người dùng hơn với ứng dụng Java của bạn.
 
